@@ -1,16 +1,16 @@
-Amazona ECommerce Website 
+Amazona ECommerce Website <Br/>
 
--Created using MongoDB , Express.js , React.js and Node.js.
--This website has simple 4 steps :
-     -- Selecting product and adding to cart
-     -- Filling Signin details
-     -- Shipping details
-     -- Order Conformation
--This website includes :
-     -- Add to cart option.
-     --Signin and Signout form.
-     --Saves user info and their orders in admin's database.
-     --Gives info about in and out of stocks products.
+-Created using MongoDB , Express.js , React.js and Node.js. <br/>
+-This website has simple 4 steps : <br/>
+&nbsp;&nbsp;     * Selecting product and adding to cart <br/>
+ &nbsp;&nbsp;    * Filling Signin details <br/>
+ &nbsp;&nbsp;    * Shipping details  <br/>
+ &nbsp;&nbsp;    * Order Conformation <br/>
+-This website includes : <br/>
+ &nbsp;&nbsp;    * Add to cart option.  <br/>
+ &nbsp;&nbsp;    * Signin and Signout form. <br/>
+ &nbsp;&nbsp;    * Saves user info and their orders in admin's database. <br/>
+ &nbsp;&nbsp;    * Gives info about in and out of stocks products. <br/>
      
   
 
